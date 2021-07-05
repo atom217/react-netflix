@@ -1,3 +1,6 @@
+The app is available at https://react-netflix-git-gitaction-atom217.vercel.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
